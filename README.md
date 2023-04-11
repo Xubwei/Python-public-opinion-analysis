@@ -1,2 +1,1 @@
-# my_first_repo
-Jason 教我如何上傳github
+# Python輿情分析專案 ( 利用K-means分群 )
